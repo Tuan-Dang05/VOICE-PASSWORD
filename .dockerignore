@@ -1,0 +1,14 @@
+backend/.venv
+backend/data
+backend/.pytest_cache
+backend/tests
+frontend/node_modules
+frontend/dist
+datasets/audio
+.git
+.env
+Downloads
+giọng_test_AI.mp3
+Group11_Project_Specification_Voice_Password_MFCC_DTW.docx
+*.pyc
+__pycache__

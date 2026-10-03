@@ -1,0 +1,21 @@
+# Local configuration and private workspace files
+.env
+.env.*
+!.env.example
+Downloads/
+giọng_test_AI.mp3
+Group11_Project_Specification_Voice_Password_MFCC_DTW.docx
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+node_modules/
+dist/
+*.tsbuildinfo
+backend/data/*
+!backend/data/.gitkeep
+datasets/audio/
+datasets/raw/
+datasets/private/

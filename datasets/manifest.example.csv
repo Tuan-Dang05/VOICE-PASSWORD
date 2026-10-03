@@ -1,0 +1,5 @@
+participant_id,voice_password,session,split,label,condition,file_path,consent
+P01,mo-ket-an-toan,1,enrollment,genuine,quiet,audio/P01/enrollment/001.wav,yes
+P01,mo-ket-an-toan,2,validation,genuine,quiet,audio/P01/validation/001.wav,yes
+P02,mo-ket-an-toan,2,test,impostor,quiet,audio/P02/test/001.wav,yes
+
